@@ -2,7 +2,7 @@
 {
     public class Constant
     {
-        public const int YEAR = 2025;
+        public const int YEAR = 2026;
     }
 
     public class Program
