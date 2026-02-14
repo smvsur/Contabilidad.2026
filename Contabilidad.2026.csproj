@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Contabilidad</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="CsvHelper">
+      <HintPath>Dependencias\CsvHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="DEB">
+      <HintPath>Dependencias\DEB.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
