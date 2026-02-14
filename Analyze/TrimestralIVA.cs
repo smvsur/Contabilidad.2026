@@ -78,7 +78,7 @@ namespace Contabilidad.Analyze
 
                 var iva = ivas.FirstOrDefault(x => x.Trimestre == trimestre);
 
-                if (Math.Abs(iva.Importe - sumCuota) > 0.001)
+                if (iva != null && Math.Abs(iva.Importe - sumCuota) > 0.001)
                 {
                     sb.AppendLine($"Mismatch IVA Presentado = {iva.Importe}");
                     sb.AppendLine();
