@@ -7,5 +7,6 @@ Fecha;Concepto;Referencia;Debe;Haber;Saldo;
 02/03/2026;FACTURA Distribuidores Automáticos de Bebidas y Alimentos S.A.U;305196340;0.00;52.50;-23.50;
 04/03/2026;PAGO Distribuidores Automáticos de Bebidas y Alimentos S.A.U;ES0182140000067250067769;23.50;0.00;0.00;
 16/03/2026;PAGO Distribuidores Automáticos de Bebidas y Alimentos S.A.U;ES0182140000067486253623;29.00;0.00;29.00;
-27/03/2026;PAGO Distribuidores Automáticos de Bebidas y Alimentos S.A.U;ES0182140000067686899453;15.64;0.00;44.64;
-;;Sumas;155.84;111.20;
+25/03/2026;FACTURA Distribuidores Automáticos de Bebidas y Alimentos S.A.U;305228574;0.00;44.64;-15.64;
+27/03/2026;PAGO Distribuidores Automáticos de Bebidas y Alimentos S.A.U;ES0182140000067686899453;15.64;0.00;0.00;
+;;Sumas;155.84;155.84;
